@@ -1,2 +1,1 @@
-# Starter code
-The code contains the initial HTML and CSS structure for the token launchpad.
+This is Token Launch Pad let you connect to your wallet and create a token as you want
